@@ -1,0 +1,41 @@
+Regions Code,Regions,Sexual orientation (6 categories) Code,sexualOrientation,Observation
+E12000001,North East,1,Straight or Heterosexual,1983445
+E12000001,North East,2,Gay or Lesbian,34016
+E12000001,North East,3,Bisexual,25954
+E12000001,North East,4,All other sexual orientations,5851
+E12000002,North West,1,Straight or Heterosexual,5430293
+E12000002,North West,2,Gay or Lesbian,101710
+E12000002,North West,3,Bisexual,73334
+E12000002,North West,4,All other sexual orientations,17878
+E12000003,Yorkshire and The Humber,1,Straight or Heterosexual,4002966
+E12000003,Yorkshire and The Humber,2,Gay or Lesbian,63793
+E12000003,Yorkshire and The Humber,3,Bisexual,58585
+E12000003,Yorkshire and The Humber,4,All other sexual orientations,14776
+E12000004,East Midlands,1,Straight or Heterosexual,3589098
+E12000004,East Midlands,2,Gay or Lesbian,51369
+E12000004,East Midlands,3,Bisexual,50084
+E12000004,East Midlands,4,All other sexual orientations,12000
+E12000005,West Midlands,1,Straight or Heterosexual,4316682
+E12000005,West Midlands,2,Gay or Lesbian,58009
+E12000005,West Midlands,3,Bisexual,50983
+E12000005,West Midlands,4,All other sexual orientations,13539
+E12000006,East of England,1,Straight or Heterosexual,4642794
+E12000006,East of England,2,Gay or Lesbian,62516
+E12000006,East of England,3,Bisexual,58885
+E12000006,East of England,4,All other sexual orientations,15731
+E12000007,London,1,Straight or Heterosexual,6123195
+E12000007,London,2,Gay or Lesbian,158760
+E12000007,London,3,Bisexual,108140
+E12000007,London,4,All other sexual orientations,37482
+E12000008,South East,1,Straight or Heterosexual,6787148
+E12000008,South East,2,Gay or Lesbian,112033
+E12000008,South East,3,Bisexual,97831
+E12000008,South East,4,All other sexual orientations,25112
+E12000009,South West,1,Straight or Heterosexual,4238858
+E12000009,South West,2,Gay or Lesbian,67500
+E12000009,South West,3,Bisexual,67894
+E12000009,South West,4,All other sexual orientations,15991
+W92000004,Wales,1,Straight or Heterosexual,2288630
+W92000004,Wales,2,Gay or Lesbian,38101
+W92000004,Wales,3,Bisexual,31814
+W92000004,Wales,4,All other sexual orientations,6948
